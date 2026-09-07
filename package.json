@@ -1,0 +1,9 @@
+{
+  "name": "cv-ia-saas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "description": "Mini SaaS de optimizacion de CV para la entrega final",
+  "engines": { "node": ">=18" }
+}
