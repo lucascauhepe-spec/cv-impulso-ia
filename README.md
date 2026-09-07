@@ -10,7 +10,13 @@ Requiere Node.js 18 o superior.
 npm start
 ```
 
-Abrir [http://localhost:3000](http://localhost:3000).
+## Demo en vivo
+
+[Probar CV Impulso IA](https://cv-impulso-ia.onrender.com)
+
+## Ejecutar localmente
+
+Abrir http://localhost:3000 después de ejecutar `npm start`.
 
 El modo demostración funciona sin una clave. Para IA real, configurá la variable de entorno `OPENAI_API_KEY`.
 
